@@ -1,0 +1,6 @@
+Turning "Lighthouse" into a Tool
+In your Lighthouse-Governance repository, add a section called /rbac-governance.
+
+Define the Roles: Explicitly write out the "Least Privilege" for every actor. (e.g., Influencers have no role in Governance Policy; their scope is limited to social commentary, not political strategy.)
+
+Define the "Systemic Overrides": When a politician attempts to use a "sticker-monkey" tactic, the repository provides the "System Error" script: "This content violates the standard of civil discourse defined by the Lighthouse Framework. It is classified as Noise. Return to Fiscal Feasibility."
