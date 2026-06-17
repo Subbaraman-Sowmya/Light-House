@@ -1,0 +1,17 @@
+Implementation: Advocacy through "Functional Requests"
+You don't need to pass a law to start this. You advocate by "Reframing the Request."
+
+When you or others speak to these pillars (e.g., in a meeting with an NGO or a public forum), you stop asking for "opinion" and start asking for "Role Fulfillment":
+
+To a Politician: "Under your proposed governance role, how does your manifesto meet the Fiscal Feasibility permission?"
+
+To an AI Engineer: "How is your agent programmed to prioritize Foundational Truth over Engagement Optimization?"
+
+To a Media House: "Why is your role currently functioning as an 'Amplify Noise' agent instead of a 'Signal Steward'?"
+
+Turning "Lighthouse" into a Tool
+In your Lighthouse-Governance repository, add a section called /rbac-governance.
+
+Define the Roles: Explicitly write out the "Least Privilege" for every actor. (e.g., Influencers have no role in Governance Policy; their scope is limited to social commentary, not political strategy.)
+
+Define the "Systemic Overrides": When a politician attempts to use a "sticker-monkey" tactic, the repository provides the "System Error" script: "This content violates the standard of civil discourse defined by the Lighthouse Framework. It is classified as Noise. Return to Fiscal Feasibility."
